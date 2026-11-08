@@ -52,7 +52,7 @@ mask, the full tracklist, release facts and a Spotify link.
 
 ```bash
 # 1. get the code
-git clone https://github.com/<your-username>/cd-vault.git
+git clone https://github.com/Kathy-Ting-0311/cd-vault-.git
 cd cd-vault
 
 # 2. install dependencies
