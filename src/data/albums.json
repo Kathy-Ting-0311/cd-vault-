@@ -1,0 +1,2046 @@
+[
+  {
+    "id": "it-6775748908",
+    "appleId": 6775748908,
+    "artistKey": "gem",
+    "artist": "G.E.M.",
+    "artistZh": "鄧紫棋",
+    "title": "G.E.M.",
+    "year": 2008,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/72/4c/9b724cf1-80ef-a2e3-3862-fc5bd538b74e/887158126260.jpg/600x600bb.jpg",
+    "trackCount": 5,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "等一個他",
+        "ms": 184027,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/23/ff/5f23fff0-4c62-3843-85f3-1d1fd460f1dc/mzaf_15012023059978322053.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "Where Did U Go",
+        "ms": 234813,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/d1/b9/89d1b913-2b9c-4695-f1dc-7b485014746a/mzaf_12646046205412954706.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "回憶的沙漏",
+        "ms": 233467,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/d2/40/8cd240ee-c009-f0bc-4667-24b38ba2fd5f/mzaf_8045457453650998895.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "愛現在的我",
+        "ms": 203640,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/d1/77/c8d17714-8eec-9df9-111a-a0739365f6a8/mzaf_3968311788345736547.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "睡公主",
+        "ms": 282147,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/69/ed/a269ed6d-30a1-0f0c-04de-8863dd4cfe11/mzaf_13910653992234614625.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/G.E.M.%20G.E.M.%20-%20EP",
+    "appleUrl": "https://music.apple.com/hk/album/g-e-m-ep/6775748908?uo=4"
+  },
+  {
+    "id": "it-6775749474",
+    "appleId": 6775749474,
+    "artistKey": "gem",
+    "artist": "G.E.M.",
+    "artistZh": "鄧紫棋",
+    "title": "18...",
+    "year": 2009,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/32/5e/12325ea3-7db2-2808-de0b-e8fd0807dc29/887158126253.jpg/600x600bb.jpg",
+    "trackCount": 13,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "All About U",
+        "ms": 241267,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/26/4e/1d264eff-83c5-51da-6f35-3e81f070a872/mzaf_2910808101615959093.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "Game Over",
+        "ms": 190107,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/cf/9c/accf9ca9-c3d4-c207-82a2-8bfe4ccca972/mzaf_13345005542470854206.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "想講你知",
+        "ms": 172733,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/1c/a8/e11ca8b0-86da-d98a-4bb7-52fcc3d4ed82/mzaf_9336521836317840943.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "A.I.N.Y.",
+        "ms": 224493,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/fc/75/82fc754c-e764-7237-8142-3dd5acc3ce50/mzaf_4816670680562782839.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "煙燻妝",
+        "ms": 245240,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/1e/45/481e4570-0fb3-33d7-b83f-5b05af5ee7ab/mzaf_14046829597532062036.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "我不懂愛",
+        "ms": 213053,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/e4/c1/f9e4c1d8-7a1b-c830-de89-8f7f05e9dc0f/mzaf_8355159264185269643.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "塞納河",
+        "ms": 210600,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/de/46/05de464f-de3f-e7b0-0862-1c8b970f4a56/mzaf_8269392755665565689.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "意式戀愛",
+        "ms": 202307,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/08/03/5008038d-b30e-fef9-addf-f420bbe2ae3c/mzaf_16644215846661318988.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "G.E.M. (Get Everybody Moving)",
+        "ms": 207467,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/e0/c0/02e0c09d-37b5-5b1c-fc81-a576f0d86b27/mzaf_6845084323985946169.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "18",
+        "ms": 215440,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/c5/c6/2ec5c6fa-7ebe-835c-69fd-aadaac439b25/mzaf_2556006133281340410.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "Where Did U Go 2.0 (Sam Vahdat Remix)",
+        "ms": 235960,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/4b/cb/264bcbfa-ab2a-7623-db29-421972ff8fe0/mzaf_10810489043792044087.plus.aac.p.m4a"
+      },
+      {
+        "n": 12,
+        "disc": 1,
+        "title": "煙燻妝 (Glossy Version)",
+        "ms": 244840,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/c1/ee/71c1ee72-3807-3e82-9155-fd67dbadbca0/mzaf_6407297446200473601.plus.aac.p.m4a"
+      },
+      {
+        "n": 13,
+        "disc": 1,
+        "title": "食煙飲酒講粗口 (feat. 林海峰)",
+        "ms": 242693,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/14/1a/ef141ace-c777-99e3-cd73-10fa26e48bdb/mzaf_16402593140163209334.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/G.E.M.%2018...",
+    "appleUrl": "https://music.apple.com/hk/album/18/6775749474?uo=4"
+  },
+  {
+    "id": "it-6776100461",
+    "appleId": 6776100461,
+    "artistKey": "gem",
+    "artist": "G.E.M.",
+    "artistZh": "鄧紫棋",
+    "title": "MySecret",
+    "year": 2010,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/df/dd/69dfdddd-449b-7e9b-deee-c07d4ff7ad85/887158129667.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "One Button",
+        "ms": 225187,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/8d/2b/938d2b81-874d-bd46-45f9-c7eae226f758/mzaf_13032134472831169229.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "Good To Be Bad",
+        "ms": 229240,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/24/21/6624213c-8484-4648-94b2-151e03b8e9d7/mzaf_14520279648478344666.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "Get Over You",
+        "ms": 237813,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/d6/4e/3ad64e6c-8ef9-0bd7-cac1-17e614ad6835/mzaf_17779763681573728351.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "美好的舊時光",
+        "ms": 298000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/84/9f/40849f9d-96fe-a5b4-286f-a1b42f8f9402/mzaf_6933935335184766470.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "寂寞星球的玫瑰",
+        "ms": 285973,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/68/9d/9f689deb-91f8-c423-1998-fbbb2bafb6d7/mzaf_13252985098020210588.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "The Voice Within",
+        "ms": 207360,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/51/d7/b651d741-d1cd-5ccc-9f29-19031ea24aba/mzaf_8305870162882783887.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "我的秘密",
+        "ms": 250147,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/d3/2a/6fd32ad0-bdaa-616f-ed8c-0cf70138feb1/mzaf_10492397858021679425.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "末日",
+        "ms": 282973,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/10/0b/99100b3b-d645-b177-34cb-f5ecebd5420b/mzaf_15418329845142800840.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "Twinkle II",
+        "ms": 256907,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/ce/e5/6ccee5c3-a388-2234-5104-5bce577f1c45/mzaf_14587529774965017926.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "Say It Loud",
+        "ms": 248453,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/ed/e2/06ede286-9eb0-1174-af8e-90df4cb8001d/mzaf_2047738273473421559.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/G.E.M.%20MySecret",
+    "appleUrl": "https://music.apple.com/hk/album/mysecret/6776100461?uo=4"
+  },
+  {
+    "id": "it-6775778892",
+    "appleId": 6775778892,
+    "artistKey": "gem",
+    "artist": "G.E.M.",
+    "artistZh": "鄧紫棋",
+    "title": "Xposed",
+    "year": 2012,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/81/e6/0881e6e7-a51c-1a5b-bdae-c379f67dce79/887158129650.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "What Have U Done",
+        "ms": 216852,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/97/cd/2897cd26-2983-24db-1fd3-226c7ae076d1/mzaf_6361645155053706735.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "下一秒 (我們就要死掉)",
+        "ms": 192039,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/0d/eb/f50deb8b-de8f-d79c-0997-9de159c48397/mzaf_4357286908122651323.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "Someday I'll Fly",
+        "ms": 231866,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/92/d8/6592d839-e969-ea5d-bf99-ca06dee0c9d6/mzaf_10714863087179078405.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "泡沫",
+        "ms": 258866,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/a2/6f/2ea26f2e-b3ab-dfda-d594-b288bcc66ea4/mzaf_13800734421504250775.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "潛意識的殘酷",
+        "ms": 238746,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/0f/76/c00f76df-09a0-44d5-c906-b9c78d86dd79/mzaf_9688038116362869320.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "Oh Boy",
+        "ms": 184452,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/d4/ff/e1d4ffd9-0a2b-1196-e1cf-36413aa49403/mzaf_11525612757569220642.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "After Tonight",
+        "ms": 276986,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/fc/29/84fc299a-04d2-96b1-6339-320fb5c07c93/mzaf_15454621307713067614.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "失真",
+        "ms": 237012,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/ab/c9/27abc970-3308-0cc6-d6eb-d7d531a8cf59/mzaf_7722080122771566277.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "奇蹟",
+        "ms": 231506,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/fc/80/92fc8045-a91a-9732-49b3-7dfb163ef7bd/mzaf_17853085363296828091.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "不存在的存在",
+        "ms": 304679,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/ac/7d/73ac7d43-5906-1e76-d918-f34efd4d77a7/mzaf_3087154932963681605.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/G.E.M.%20Xposed",
+    "appleUrl": "https://music.apple.com/hk/album/xposed/6775778892?uo=4"
+  },
+  {
+    "id": "it-1053567923",
+    "appleId": 1053567923,
+    "artistKey": "gem",
+    "artist": "G.E.M.",
+    "artistZh": "鄧紫棋",
+    "title": "新的心跳",
+    "year": 2015,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/bb/c7/55bbc782-299e-7f24-bc4a-ae129e6d8030/mzm.rpqttxch.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "多遠都要在一起",
+        "ms": 216882,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/fd/d8/44fdd8d6-6034-7213-5717-ee4b804eb8d8/mzaf_2585594036384074677.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "再見",
+        "ms": 206057,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/3f/a5/813fa58c-de36-3b00-3a73-1213382fbc75/mzaf_16691533760406432105.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "新的心跳",
+        "ms": 217782,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/0a/02/500a02af-aca2-a599-bb31-565282cdf7a9/mzaf_1601541546819786529.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "來自天堂的魔鬼",
+        "ms": 245506,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/d3/3e/44d33efe-250d-3868-3683-af376049437d/mzaf_8644935407710685683.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "盲點",
+        "ms": 226809,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/27/5f/76/275f761b-4e08-7a3d-f642-b2f39bc4679d/mzaf_17030065229855258471.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "單行的軌道",
+        "ms": 248864,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/99/45/de9945fb-9e14-aed8-803d-3942bcedbd50/mzaf_8408405702177931213.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "一路逆風",
+        "ms": 225799,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/51/bd/5651bde3-bada-63e6-199a-6651948633a4/mzaf_15040248392232267018.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "於是",
+        "ms": 229879,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/84/d0/9784d05a-00ba-7267-dabd-05d32d0d1d26/mzaf_7087379806817376478.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "瞬間",
+        "ms": 246075,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/e2/95/04e29534-84e7-03a2-bf11-f2c5e7e0e781/mzaf_9522262658205874575.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "查克靠近",
+        "ms": 260968,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/3f/20/493f20fc-6d17-0256-47b5-ff0b1666a794/mzaf_915828849477107948.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/G.E.M.%20%E6%96%B0%E7%9A%84%E5%BF%83%E8%B7%B3",
+    "appleUrl": "https://music.apple.com/hk/album/%E6%96%B0%E7%9A%84%E5%BF%83%E8%B7%B3/1053567923?uo=4"
+  },
+  {
+    "id": "it-1491477500",
+    "appleId": 1491477500,
+    "artistKey": "gem",
+    "artist": "G.E.M.",
+    "artistZh": "鄧紫棋",
+    "title": "City Zoo",
+    "year": 2019,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6e/20/22/6e202262-eaab-bca1-fe63-7ae59bd74183/886448203421.jpg/600x600bb.jpg",
+    "trackCount": 13,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "摩天動物園",
+        "ms": 270677,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/4d/85/044d8509-5cf5-7797-027c-ea5fbfdd3a59/mzaf_15020527426443989326.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "Fly Away",
+        "ms": 238116,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/3e/88/ea3e88d7-fb85-4d13-84b4-3235fe0d92b1/mzaf_16057132191690827396.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "透明",
+        "ms": 217264,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/ab/4a/fbab4aa5-24d9-befc-9f44-55bfca13333c/mzaf_11615826513582303955.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "很久以後 (電影《可不可以,你也剛好喜歡我》主題曲)",
+        "ms": 290265,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/d3/34/a9d334cd-077f-5cb7-88cb-1d014ab2fac9/mzaf_7031579814304915505.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "WALK ON WATER",
+        "ms": 211509,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/53/63/9f536360-f1d7-afe7-f381-33079f06a410/mzaf_11876221545915563224.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "螢火",
+        "ms": 230880,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/5c/41/8b5c4143-04b7-bcde-97fb-532ec9e39167/mzaf_11383187499874884674.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "灰狼",
+        "ms": 203418,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/fa/06/c8fa0637-a370-9136-f8ec-58a3ce756694/mzaf_7107581463535905557.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "差不多姑娘",
+        "ms": 230043,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/10/74/1f1074e9-71c4-4f8f-7ef9-b3fadad5c705/mzaf_2305719473105809251.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "好想好想你",
+        "ms": 204140,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/cf/a3/facfa37b-b7a9-5ea6-7cca-38736f9412d6/mzaf_14701902508649318986.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "別勉強 (feat. 周兴哲)",
+        "ms": 262597,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4b/7f/b0/4b7fb099-6889-6809-193c-f5beb85f1f32/mzaf_8901555963068859649.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "多美麗",
+        "ms": 221862,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/57/69/ce57692b-7645-164b-6be5-2d7c719f1c99/mzaf_11780913329508896158.plus.aac.p.m4a"
+      },
+      {
+        "n": 12,
+        "disc": 1,
+        "title": "句號",
+        "ms": 235632,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/a2/15/51a2158d-c011-8aec-9c33-c09767633d27/mzaf_3296820269389268517.plus.aac.p.m4a"
+      },
+      {
+        "n": 13,
+        "disc": 1,
+        "title": "依然睡公主",
+        "ms": 160709,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/e7/2a/c6e72acc-89f4-43bf-634b-855449c965ec/mzaf_2483022438397244407.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/G.E.M.%20City%20Zoo",
+    "appleUrl": "https://music.apple.com/hk/album/city-zoo/1491477500?uo=4"
+  },
+  {
+    "id": "it-1641502284",
+    "appleId": 1641502284,
+    "artistKey": "gem",
+    "artist": "G.E.M.",
+    "artistZh": "鄧紫棋",
+    "title": "启示录",
+    "year": 2022,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/cc/70/88cc70bd-3763-a558-33dd-dbe07c8848d9/5054197302183.jpg/600x600bb.jpg",
+    "trackCount": 14,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "少年與海",
+        "ms": 223768,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/c8/0d/a1c80d53-dfc0-d194-47af-102ff8556e07/mzaf_15500092809730822436.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "HELL",
+        "ms": 248286,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/34/6f/fa346f84-26a2-6a02-3cae-fce55ce64827/mzaf_12860595931748729158.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "只有我和你的地方",
+        "ms": 197659,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/91/ea/2491ea0e-2eb5-d37c-e91b-0bf7927f05dc/mzaf_18329755970474827464.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "你不是第一個離開的人",
+        "ms": 200288,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/67/e7/5267e7d8-d4e8-36b8-eca4-fa4bd15c314b/mzaf_15943924250307688534.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "不想回家",
+        "ms": 246510,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/c3/40/a8c3409d-ad24-c1c9-5d20-b99c30b014dd/mzaf_6710617847974355163.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "冰河時代",
+        "ms": 210785,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/02/4a/c4024a0e-db51-c281-c6b0-b7f46d5fb0eb/mzaf_4206300814969765116.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "受難曲",
+        "ms": 179982,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/1a/ff/0e1aff89-a8c0-e1ba-3dab-4a1f44a8b921/mzaf_7031256197945117092.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "GLORIA",
+        "ms": 244987,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/d1/c8/e2d1c8d1-8dfa-f117-ae10-0577fb2484f6/mzaf_15517713754454569580.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "老人與海",
+        "ms": 192201,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/a6/51/d1a651fa-de17-f30b-2687-b03ef95195cc/mzaf_1824125247315584993.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "FIND YOU",
+        "ms": 256112,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/a7/4c/08a74c69-1eb9-efb0-c582-4d59a1effb23/mzaf_9837296208519151106.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "離心力",
+        "ms": 301681,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/a2/d1/8ba2d1ca-c1fb-825d-c33f-01a994b2b340/mzaf_11970250400343549523.plus.aac.p.m4a"
+      },
+      {
+        "n": 12,
+        "disc": 1,
+        "title": "讓世界暫停一分鐘",
+        "ms": 232860,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/85/bb/9785bbff-4060-4cab-487d-2b0f5ecbb4f5/mzaf_4071970757561903643.plus.aac.p.m4a"
+      },
+      {
+        "n": 13,
+        "disc": 1,
+        "title": "夜的盡頭",
+        "ms": 281795,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/5e/03/2a5e0334-733b-0b50-f453-ebce430d4cc0/mzaf_12579774187213100403.plus.aac.p.m4a"
+      },
+      {
+        "n": 14,
+        "disc": 1,
+        "title": "天空沒有極限",
+        "ms": 279705,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/a9/d4/28a9d421-b495-8202-22c6-094a1c9f1f98/mzaf_1854195266594239761.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/G.E.M.%20%E5%90%AF%E7%A4%BA%E5%BD%95",
+    "appleUrl": "https://music.apple.com/hk/album/%E5%90%AF%E7%A4%BA%E5%BD%95/1641502284?uo=4"
+  },
+  {
+    "id": "it-542187857",
+    "appleId": 542187857,
+    "artistKey": "joey",
+    "artist": "Joey Yung",
+    "artistZh": "容祖兒",
+    "title": "我的驕傲",
+    "year": 2003,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/33/53/1a/33531ad0-02f8-91e3-2766-a9e9e13b6805/EEG1078V2-_Ver._2-.jpg/600x600bb.jpg",
+    "trackCount": 22,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "想得太遠",
+        "ms": 203689,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/5b/0c/935b0cb4-659f-a769-f3a6-760924a9c381/mzaf_15530313730968893831.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "Geminian Theme",
+        "ms": 35627,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/14/1b/14141bcd-6ee3-e8db-4b02-7bdfd6c597d5/mzaf_10049824378361928383.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "習慣失戀",
+        "ms": 236653,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/fe/a5/f8fea5eb-778b-1e1a-14bd-fa51da995c4a/mzaf_8826769912294923907.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "Joey's Clock",
+        "ms": 31693,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/fc/94/f3fc9415-1909-ce6c-a99e-e48834ff5aef/mzaf_8679391872109484224.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "神魂顛倒",
+        "ms": 247787,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/4a/4a/fb4a4a80-c197-4a66-45cb-aa30792d3216/mzaf_6205299316727441756.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "Some Time",
+        "ms": 34213,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/27/99/ad2799f5-da01-a6b5-9090-c0373e741d9d/mzaf_1582945200068578642.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "心淡",
+        "ms": 248787,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/ec/01/30ec01e7-8561-27dd-ce72-db6a9ff2e16b/mzaf_495836659517173115.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "Yummy",
+        "ms": 18853,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/13/42/4513424f-0bf7-04c5-ce6f-9844da4f22cc/mzaf_4957214844258318165.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "Honey",
+        "ms": 198693,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/30/97/b1309709-fcaf-8d9c-c0c5-c5fb8183c0fc/mzaf_9702464889961078860.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "你的擁戴",
+        "ms": 40187,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/8b/ad/d88bad0b-4bb0-32cf-90fc-2cc730cbb14e/mzaf_10804580662621499997.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "我的驕傲",
+        "ms": 187733,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/8f/96/108f960e-6e73-9449-d89e-370372f5b5b0/mzaf_14547218172687333213.plus.aac.p.m4a"
+      },
+      {
+        "n": 12,
+        "disc": 1,
+        "title": "好好聽",
+        "ms": 14320,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/44/d4/9a44d401-e330-2e64-f57c-fc5b7747e6a3/mzaf_12651509111997383680.plus.aac.p.m4a"
+      },
+      {
+        "n": 13,
+        "disc": 1,
+        "title": "跩跩",
+        "ms": 179507,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/03/3b/8d033bc0-5a35-ee32-b7c2-fb9e01fa7fce/mzaf_14937635502863082740.plus.aac.p.m4a"
+      },
+      {
+        "n": 14,
+        "disc": 1,
+        "title": "Meow's Greeting",
+        "ms": 35867,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/2d/85/662d8513-92ac-9491-ff5d-be3e576c8dea/mzaf_4002174035444486287.plus.aac.p.m4a"
+      },
+      {
+        "n": 15,
+        "disc": 1,
+        "title": "與貓共舞",
+        "ms": 245800,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/8f/13/308f1324-4f63-450b-329c-f7ad67165cc9/mzaf_5628229748459755735.plus.aac.p.m4a"
+      },
+      {
+        "n": 16,
+        "disc": 1,
+        "title": "Clubbin'",
+        "ms": 34680,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/f2/73/e8f2736a-ae2c-f553-a77b-97209f18795e/mzaf_10254185065799509423.plus.aac.p.m4a"
+      },
+      {
+        "n": 17,
+        "disc": 1,
+        "title": "囉囉攣",
+        "ms": 215200,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/4b/af/1d4baf21-8abc-238a-2637-d52b736216ca/mzaf_14394771647275780739.plus.aac.p.m4a"
+      },
+      {
+        "n": 18,
+        "disc": 1,
+        "title": "Lesson One",
+        "ms": 39440,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/8a/19/088a192a-43d7-f855-74cf-3f9e7f1e321f/mzaf_2994160113545706917.plus.aac.p.m4a"
+      },
+      {
+        "n": 19,
+        "disc": 1,
+        "title": "最後一課",
+        "ms": 259440,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/d0/12/b0d012c5-95a0-39a8-8b2c-3f22f6a2346a/mzaf_11727960584244675283.plus.aac.p.m4a"
+      },
+      {
+        "n": 20,
+        "disc": 1,
+        "title": "他都不愛我",
+        "ms": 215347,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/a0/1b/c0a01b3f-0af0-5f6a-68de-5654f6d004f4/mzaf_4920653687478895366.plus.aac.p.m4a"
+      },
+      {
+        "n": 21,
+        "disc": 1,
+        "title": "揮著翅膀的女孩",
+        "ms": 185600,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/1b/6a/2a1b6a4c-50fc-2d1a-eb3d-88449a6cbc08/mzaf_2465528946345069618.plus.aac.p.m4a"
+      },
+      {
+        "n": 22,
+        "disc": 1,
+        "title": "一首傳世之歌",
+        "ms": 238585,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/34/71/8c34717b-67e2-e103-4c08-ccd0f160f7f7/mzaf_18109229117175338095.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Joey%20Yung%20%E6%88%91%E7%9A%84%E9%A9%95%E5%82%B2",
+    "appleUrl": "https://music.apple.com/hk/album/%E6%88%91%E7%9A%84%E9%A9%95%E5%82%B2/542187857?uo=4"
+  },
+  {
+    "id": "it-542212024",
+    "appleId": 542212024,
+    "artistKey": "joey",
+    "artist": "Joey Yung",
+    "artistZh": "容祖兒",
+    "title": "Give Love a Break",
+    "year": 2004,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f1/72/3e/f1723e13-b8b2-18a0-f2bc-a2b5bcbac1ee/EEG1116V1-Give_Love_A_Break-.jpg/600x600bb.jpg",
+    "trackCount": 18,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "Person Forecast",
+        "ms": 26987,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e7/e5/1b/e7e51b63-db35-6103-664b-d498704786bc/mzaf_14637421175222598500.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "天氣報告",
+        "ms": 192173,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/dc/06/d9/dc06d9bc-e9bf-bd72-3a07-09f3a723ea74/mzaf_9376128828832904879.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "16號愛人",
+        "ms": 245731,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/10/87/99/10879922-c2aa-5987-a158-d826c0aababc/mzaf_18386702117084704159.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "Sand Storm",
+        "ms": 16442,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/c4/fd/b1/mzi.lnptckgt.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "紅牌出場",
+        "ms": 183986,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/9d/7a/0b9d7a5b-baf5-312c-e1a1-aae0470c95ca/mzaf_3207210036453584087.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "Pls Leave a Msg",
+        "ms": 11586,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/77/91/f0/7791f0fd-e1c0-be86-8c80-39d2b68f1f21/mzaf_6813127113866189180.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "煙霞",
+        "ms": 237892,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/22/c2/f4/22c2f448-8449-a2b3-f6ff-7be054d6e67e/mzaf_16125760924450220376.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "Rainy Day On Black Friday",
+        "ms": 18385,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/98/03/d3/9803d37e-c4e4-995d-12e9-edd3a44dce50/mzaf_2298548434581972699.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "S.O.S.",
+        "ms": 230538,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1a/11/1b/1a111b24-e439-b13c-7b80-cc932e1bb285/mzaf_3383555159267233835.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "My Secret Garden",
+        "ms": 20882,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bf/0f/4e/bf0f4e95-14a4-d9b1-b018-f1e86863669f/mzaf_5764629665692775560.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "蜃樓",
+        "ms": 199318,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/ab/a1/97aba111-3055-53d6-ac71-2938b1918b2f/mzaf_1667326678545414515.plus.aac.p.m4a"
+      },
+      {
+        "n": 12,
+        "disc": 1,
+        "title": "Pls Try again later",
+        "ms": 21784,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/27/4a/73274a05-c0a2-6b12-042c-c6714638b498/mzaf_15834004058072592243.plus.aac.p.m4a"
+      },
+      {
+        "n": 13,
+        "disc": 1,
+        "title": "分身術",
+        "ms": 223045,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/46/ad/9246ad06-caaf-eb81-6a46-cdb25c8a391b/mzaf_4928922083445711732.plus.aac.p.m4a"
+      },
+      {
+        "n": 14,
+        "disc": 1,
+        "title": "Give Love a Break",
+        "ms": 210227,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2e/30/ed/2e30ed15-27d4-da67-88ec-8fb7af6556c8/mzaf_2134962416248451052.plus.aac.p.m4a"
+      },
+      {
+        "n": 15,
+        "disc": 1,
+        "title": "男朋友與歌",
+        "ms": 188707,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c0/4f/1a/c04f1afa-ef5a-6d0f-2166-8a33e7c2d17f/mzaf_11288481552606287478.plus.aac.p.m4a"
+      },
+      {
+        "n": 16,
+        "disc": 1,
+        "title": "Coming Back",
+        "ms": 14760,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/fb/ec/e1/fbece12a-ea59-802f-e3cb-aa264aa17af0/mzaf_590924868355903055.plus.aac.p.m4a"
+      },
+      {
+        "n": 17,
+        "disc": 1,
+        "title": "心病",
+        "ms": 219440,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/52/f2/43/52f2435f-e6aa-9bef-34e9-b339c3b93910/mzaf_1027976247211544161.plus.aac.p.m4a"
+      },
+      {
+        "n": 18,
+        "disc": 1,
+        "title": "身驕肉貴",
+        "ms": 230191,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/c9/86/ebc9864f-62fd-0627-9ee9-82de9cb87597/mzaf_7264743206053258559.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Joey%20Yung%20Give%20Love%20a%20Break",
+    "appleUrl": "https://music.apple.com/hk/album/give-love-a-break/542212024?uo=4"
+  },
+  {
+    "id": "it-542188180",
+    "appleId": 542188180,
+    "artistKey": "joey",
+    "artist": "Joey Yung",
+    "artistZh": "容祖兒",
+    "title": "Close Up",
+    "year": 2006,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/71/c6/ec71c627-fe78-0f1c-e1f6-589e927137c8/EEG1175V1-CloseUp-.jpg/600x600bb.jpg",
+    "trackCount": 11,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "心花怒放",
+        "ms": 205909,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/b2/65/b0b26518-fa80-2340-a05f-ea317606f441/mzaf_3301026914422335071.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "華麗邂逅",
+        "ms": 234700,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/9b/94/2b9b94d7-3790-96b3-a14e-8fa45aa3b92e/mzaf_12965605206985631958.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "愛一個上一課",
+        "ms": 228040,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/ae/94/b3ae943a-0c3c-6d7c-4c91-3d62ae5ee601/mzaf_7018089581873660400.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "搖搖搖",
+        "ms": 238169,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/b9/ec/74b9ec30-81fa-9727-fc69-219241bbe081/mzaf_1000931108381667648.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "Be True",
+        "ms": 227624,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/f2/f4/3ef2f412-76d7-9694-f280-1059765e67db/mzaf_12650721763692278385.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "傷神",
+        "ms": 241014,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/0b/5c/6d0b5c20-25b1-5c9d-0190-de67a55fd605/mzaf_3880799666906211642.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "喜喜",
+        "ms": 201747,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/8a/ed/eb8aedf9-595f-cc8e-cad2-804ce6fc06ea/mzaf_12114111797671654189.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "卸妝",
+        "ms": 234631,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/e1/e7/e4e1e742-7751-ceaf-e1b8-22c7cd123a27/mzaf_17589682773091740685.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "如果睡袍太少布",
+        "ms": 247188,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/b4/d1/64b4d137-a880-a656-b825-ce59db432a3d/mzaf_5365303018307594934.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "蒸餾",
+        "ms": 249200,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/8a/30/fd8a3008-937c-5167-2603-78ad321734b0/mzaf_14330106432655681912.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "黃色大門",
+        "ms": 223115,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/0f/c5/fa0fc57e-d8ce-a008-a49a-36da8c78d14b/mzaf_1088240896233674640.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Joey%20Yung%20Close%20Up",
+    "appleUrl": "https://music.apple.com/hk/album/close-up/542188180?uo=4"
+  },
+  {
+    "id": "it-541932104",
+    "appleId": 541932104,
+    "artistKey": "joey",
+    "artist": "Joey Yung",
+    "artistZh": "容祖兒",
+    "title": "A Time For Us",
+    "year": 2009,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/76/2d/6a/762d6ac3-cfd5-4bd1-19e8-efa13875baff/EEG1239V1-A_Time_For_Us-.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "可歌可泣",
+        "ms": 235255,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/d1/b3/56d1b33e-aee1-fca2-1fdd-3a1b3e462e20/mzaf_15043487174494252637.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "我所知的兩三事",
+        "ms": 206395,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/87/37/b2873781-8423-9140-c6bc-5b98ce1296d8/mzaf_13012618201615651178.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "搜神記",
+        "ms": 271747,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/93/a3/8293a30a-0d48-dfc8-0058-52ef529fd44f/mzaf_3011719269852860526.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "It Doesn't Matter",
+        "ms": 264532,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/7b/b9/227bb928-2a9c-840a-4f86-176dc6612b27/mzaf_1915430133964917117.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "心賊難防",
+        "ms": 203273,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/b2/88/56b288fb-130e-7256-7d4e-c10bee8d19fe/mzaf_3950062962137632852.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "花城",
+        "ms": 255236,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/e6/93/81e6931b-d106-8adc-731b-063d7cdaf4c0/mzaf_4631709490594948286.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "開動快樂 (\"可口可樂\"廣告歌)",
+        "ms": 225335,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/f3/8a/a6f38a9f-0ee3-43fb-5816-54b06730b943/mzaf_16578894982026256650.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "圓謊",
+        "ms": 271192,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/db/c0/b7dbc0cc-0008-e771-1f38-0fda227cbf64/mzaf_16713106774490328040.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "時不與我",
+        "ms": 210488,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/44/4a/80444a3b-f3ff-fe39-467e-edc166a34c78/mzaf_10743455884993082197.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "兩面",
+        "ms": 290687,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/a8/29/50a8297f-0799-3add-b482-1a0759709104/mzaf_17138333101020633095.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Joey%20Yung%20A%20Time%20For%20Us",
+    "appleUrl": "https://music.apple.com/hk/album/a-time-for-us/541932104?uo=4"
+  },
+  {
+    "id": "it-541904926",
+    "appleId": 541904926,
+    "artistKey": "joey",
+    "artist": "Joey Yung",
+    "artistZh": "容祖兒",
+    "title": "Joey & Joey",
+    "year": 2011,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/38/0e/45/380e45e7-4859-535f-71a3-be36d5ff971e/EEG1280V1-Joey_Joey-.jpg/600x600bb.jpg",
+    "trackCount": 11,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "蜉蝣",
+        "ms": 244667,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/3d/1c/983d1ccb-a9e3-1b1a-04d6-d2cec57f2ce6/mzaf_4282743597454707663.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "13點 (\"百老匯\"廣告歌)",
+        "ms": 242640,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/ee/44/d4ee4475-3f9c-f1e3-290f-f513d09b1a8c/mzaf_2235874505156105283.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "戀人未滿",
+        "ms": 216560,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/32/13/21/3213216e-2555-23e7-bc20-f6caee5a532e/mzaf_18385832172305692064.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "澎湃 (\"百老匯\"廣告歌)",
+        "ms": 253573,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/e3/88/cbe38808-ddb9-0370-d2e2-ff7380287997/mzaf_787246411213245077.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "花千樹",
+        "ms": 201907,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/57/ec/ab57ec9d-7fb4-a95c-dd3b-57e8c3875756/mzaf_6026429162566430452.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "垂涎",
+        "ms": 246613,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/7f/1a/537f1a0c-ae38-a1f3-cb7c-94a27aa53541/mzaf_15033236913242454501.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "馬賽克",
+        "ms": 199893,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/ca/3f/c6ca3f66-196d-5d68-dfff-ad808544dee5/mzaf_14398334379923952965.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "牆紙",
+        "ms": 255053,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/6c/71/d56c7183-4bb4-3727-4a28-c7c81af1df32/mzaf_13913374756406541314.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "疒孟",
+        "ms": 177160,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b3/f0/e6/b3f0e6dc-b2d1-59ff-46d2-af564614b921/mzaf_7360355961512262614.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "山口百惠",
+        "ms": 333040,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/24/d7/3d/24d73da7-e4fe-f960-82b8-770f96d55576/mzaf_11435557099438129958.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "最後情人 (\"花千樹\" 國語版)",
+        "ms": 200240,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b8/89/80/b8898081-9531-9bd1-0339-54e3bc3c7bc1/mzaf_13450226384661476282.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Joey%20Yung%20Joey%20%26%20Joey",
+    "appleUrl": "https://music.apple.com/hk/album/joey-joey/541904926?uo=4"
+  },
+  {
+    "id": "it-1123572915",
+    "appleId": 1123572915,
+    "artistKey": "joey",
+    "artist": "Joey Yung",
+    "artistZh": "容祖兒",
+    "title": "J-Pop",
+    "year": 2016,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/f4/99/c3/f499c32c-38b1-5abd-1c06-0c3b363a8503/4895087641453.jpg/600x600bb.jpg",
+    "trackCount": 12,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "Coffee or?",
+        "ms": 22000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/18/b9/6518b9ba-5de1-7ac1-2c93-54882a25099b/mzaf_8352424741384022171.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "黃昏點唱機 (feat. 林海峰)",
+        "ms": 202013,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/05/c0/2805c058-8ccf-a8f7-af8f-9e74bf061df7/mzaf_14991278218272212899.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "Gotta Get High",
+        "ms": 191000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/e7/05/27e705ee-5cfd-f0a8-2585-b11aa30c80f7/mzaf_3017480589455801188.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "Gimme a Call",
+        "ms": 40000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/5e/d0/9a5ed025-b0d4-3073-882c-74874a39e12e/mzaf_4941459601164361760.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "我好得閒",
+        "ms": 185000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/82/82/df8282c1-7b46-fdec-5c39-caf03df5bd0f/mzaf_1552532729207624446.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "新貴",
+        "ms": 261000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/8a/05/db8a0539-22a1-e33a-8475-1d2f4d01568c/mzaf_3305916494329114371.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "無人知道雙子座",
+        "ms": 210000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/70/75/96707538-2823-b4e2-1ad7-2de366c74df9/mzaf_9304144060871097539.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "玩家",
+        "ms": 221000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/4c/59/e44c59e4-b666-609e-6d4e-0544e2982d06/mzaf_11468518330634105696.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "鴛鴦襪",
+        "ms": 200000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/ac/f1/5cacf1ef-bad5-8b6c-4156-1880f30eff3c/mzaf_17797517454788201913.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "Flippin'",
+        "ms": 27587,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/ba/aa/f8baaa5f-81fb-d8a3-510b-487f7768bcc4/mzaf_13276615534936553535.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "閃光彈",
+        "ms": 186427,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/44/74/2d447451-6de6-5594-5f6d-4b2cdf860fc4/mzaf_1380593891770443199.plus.aac.p.m4a"
+      },
+      {
+        "n": 12,
+        "disc": 1,
+        "title": "呢度.依然係",
+        "ms": 58013,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/cd/b1/38cdb1bd-46ce-4e11-1853-df415d88aa17/mzaf_13018531071037646511.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Joey%20Yung%20J-Pop",
+    "appleUrl": "https://music.apple.com/hk/album/j-pop/1123572915?uo=4"
+  },
+  {
+    "id": "it-1594495552",
+    "appleId": 1594495552,
+    "artistKey": "joey",
+    "artist": "Joey Yung",
+    "artistZh": "容祖兒",
+    "title": "薛丁格的貓",
+    "year": 2021,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/36/e3/0d36e36f-5c22-8999-4f9d-c2062c12d5d9/4895087622339.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "一種永遠",
+        "ms": 211140,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/eb/c3/c0ebc345-3775-4370-8dc5-d1c27f6c817a/mzaf_8234453561505759692.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "心之科學",
+        "ms": 235400,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/8f/5e/218f5e5f-2bc6-141e-b058-a6dfb8b48282/mzaf_7322908490833985579.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "Pretty Crazy",
+        "ms": 190410,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/0d/6d/c60d6db9-298a-4cba-42bf-de283683aadf/mzaf_11758558730693482086.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "東京人壽",
+        "ms": 256460,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/1b/d5/e31bd59d-87f6-4574-5d48-a5552517dd63/mzaf_15470135001113477892.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "悲觀生物學",
+        "ms": 252800,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/b9/48/a2b94853-ef94-99f9-8adf-53f52155a375/mzaf_15615256472045946602.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 2,
+        "title": "愛你愛我",
+        "ms": 208010,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/b3/8e/6db38e33-a7dd-4d32-1a28-e3af03e9cfbf/mzaf_8995245651677265723.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 2,
+        "title": "不配",
+        "ms": 272620,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/34/e6/5c34e62c-1a39-5426-219f-13cd578b5f8d/mzaf_4924529788263474520.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 2,
+        "title": "辛苦你了",
+        "ms": 259150,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/ee/21/e6ee21f6-bb05-ddcd-fc8f-a2e451349c20/mzaf_15846652468549338365.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 2,
+        "title": "煙花紀",
+        "ms": 283737,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/3b/06/2b3b068c-821d-7ccf-1b94-20e9cd40e905/mzaf_5280028729234790669.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 2,
+        "title": "明天見 (Hidden track)",
+        "ms": 243388,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/d7/52/b4d752c5-3717-bf6d-7cbe-4930f48b082c/mzaf_14161650791102768752.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Joey%20Yung%20%E8%96%9B%E4%B8%81%E6%A0%BC%E7%9A%84%E8%B2%93",
+    "appleUrl": "https://music.apple.com/hk/album/%E8%96%9B%E4%B8%81%E6%A0%BC%E7%9A%84%E8%B2%93/1594495552?uo=4"
+  },
+  {
+    "id": "it-1443314619",
+    "appleId": 1443314619,
+    "artistKey": "jacky",
+    "artist": "Jacky Cheung",
+    "artistZh": "張學友",
+    "title": "Amour / 遙遠的她",
+    "year": 1986,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/6e/18/ea6e186d-4266-5fe2-e722-6c8d5bc9919c/00042282762429.rgb.jpg/600x600bb.jpg",
+    "trackCount": 12,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "Amour",
+        "ms": 273347,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/54/02/c554023a-5e25-2f86-9422-987256cfffd9/mzaf_16239364002831834341.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "月半彎",
+        "ms": 226147,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/84/b7/06/84b70677-201c-c1e6-bf64-522659b11841/mzaf_15127178755807157524.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "偷心者",
+        "ms": 284480,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/9e/46/7e9e466a-cc9e-5652-8f75-46c7e4784ba2/mzaf_16407303193363242218.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "愛戀的星火",
+        "ms": 249493,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/b9/cc/e7b9cc34-abb8-3c24-662c-e34a52272a59/mzaf_3854934772755049120.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "苗",
+        "ms": 187107,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/bb/c9/fdbbc946-d99a-1e91-3a3a-7aa81d8134c0/mzaf_14442677965496545402.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "恕難從命",
+        "ms": 168173,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/1c/68/9d1c68dd-9104-a962-556b-33a90a0dbc5c/mzaf_14882042987944693716.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "遙遠的她",
+        "ms": 257547,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/bb/b8/52bbb88f-3d55-6fe6-e3cc-360db2388ea5/mzaf_5101412876603946183.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "單車少女",
+        "ms": 223093,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/f4/5a/4ff45acd-ca68-a674-f7ea-5da76d451efc/mzaf_11884936052291740541.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "真面目, 假面具",
+        "ms": 279840,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/38/a0/f838a05d-6f27-5fb0-74c8-d89eed54a51d/mzaf_16875668177791308346.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "征途",
+        "ms": 187080,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/6c/d8/7e6cd849-7cbc-6434-a484-76d2e041c8a3/mzaf_245092657554699896.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "霸王別姬",
+        "ms": 142747,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/4e/8b/264e8be9-80cc-a486-a6b9-d8cc547fab4e/mzaf_4739754876912591570.plus.aac.p.m4a"
+      },
+      {
+        "n": 12,
+        "disc": 1,
+        "title": "楚歌",
+        "ms": 270960,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/01/05/020105d0-45c8-3a7c-cc6c-1e863c728a52/mzaf_11915825390097564333.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Jacky%20Cheung%20Amour%20%2F%20%E9%81%99%E9%81%A0%E7%9A%84%E5%A5%B9",
+    "appleUrl": "https://music.apple.com/hk/album/amour-%E9%81%99%E9%81%A0%E7%9A%84%E5%A5%B9/1443314619?uo=4"
+  },
+  {
+    "id": "it-1443840130",
+    "appleId": 1443840130,
+    "artistKey": "jacky",
+    "artist": "Jacky Cheung",
+    "artistZh": "張學友",
+    "title": "真情流露",
+    "year": 1992,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/8c/f0/b78cf05d-684c-019e-6f29-e052ec848469/00731451343827.rgb.jpg/600x600bb.jpg",
+    "trackCount": 12,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "偷閒加油站 I",
+        "ms": 53827,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/43/c5/9343c5a0-4a9f-4e2c-c523-36b3250c9b61/mzaf_9656501702762346232.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "愛得比你深",
+        "ms": 290307,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/86/eb/fe86ebb8-152b-274c-f035-6c262be2a53d/mzaf_212261437939706144.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "分手總要在雨天",
+        "ms": 287507,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/f2/7a/34f27ac0-be5d-1919-74a5-82ddf8d1e52e/mzaf_6065244837441892692.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "Honey B",
+        "ms": 287000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/53/33/e6533307-4f87-9ec1-8ce7-d9409da8348f/mzaf_7563758779117306194.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "暗戀你",
+        "ms": 271960,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/be/4b/19be4b8c-47d4-efb2-1489-607e2082cc83/mzaf_16466949423606202889.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "明日世界終結時",
+        "ms": 274560,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/38/1b/4b381bf9-68c7-55a7-6334-85968934bcc5/mzaf_2360142827529194725.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "真情流露",
+        "ms": 308627,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/8d/6e/e78d6e4b-0de4-8248-5752-bb7ac8f0047b/mzaf_5095333437103618962.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "歲月流情",
+        "ms": 295093,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/f1/fc/b8f1fce1-3cae-ba37-17f0-748d4f456447/mzaf_10549174512321745782.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "紅葉舞秋山",
+        "ms": 249827,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/bc/2e/85bc2eab-9de1-9060-8c89-bf866d0620f8/mzaf_1960522796286799068.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "相思風雨中",
+        "ms": 252600,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/08/eb/7e08eba8-11a9-72db-5228-e410df85a36d/mzaf_18270728797783025993.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "不要再問",
+        "ms": 249107,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/4c/12/084c126c-afc6-7350-ef22-580d134fdbbc/mzaf_2626204886935305283.plus.aac.p.m4a"
+      },
+      {
+        "n": 12,
+        "disc": 1,
+        "title": "偷閒加油站 II",
+        "ms": 168107,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/88/3e/41883e1f-5f5a-fa46-fc93-2cd003800104/mzaf_5026857490799642601.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Jacky%20Cheung%20%E7%9C%9F%E6%83%85%E6%B5%81%E9%9C%B2",
+    "appleUrl": "https://music.apple.com/hk/album/%E7%9C%9F%E6%83%85%E6%B5%81%E9%9C%B2/1443840130?uo=4"
+  },
+  {
+    "id": "it-1443431909",
+    "appleId": 1443431909,
+    "artistKey": "jacky",
+    "artist": "Jacky Cheung",
+    "artistZh": "張學友",
+    "title": "吻別",
+    "year": 1993,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/bf/c1/93/bfc19337-d44e-9bbc-2878-dec47d1c645d/00731451920820.rgb.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "吻別",
+        "ms": 302093,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/db/ce/12dbce07-47bc-dc49-05d7-eab7e057af57/mzaf_3837636671161943771.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "情網",
+        "ms": 245360,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/74/5c/f2745ce0-879a-02af-c7b0-d8957f40485e/mzaf_140668466280496719.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "Linda",
+        "ms": 273667,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/de/6f/a4de6fc3-71a3-f83c-927e-0ce8ec6f4c09/mzaf_10048910612774733019.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "一路上有你",
+        "ms": 282827,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/a5/65/90a565b8-d561-5910-37f0-ab6d88a5aa83/mzaf_17034575753034922831.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "你給我的愛最多",
+        "ms": 318707,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/bc/9e/9ebc9e64-31e0-bc97-0cda-5501ff2dddec/mzaf_14024362378178477404.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "每天愛你多一些",
+        "ms": 278867,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/d0/d3/77d0d3bc-171d-a7e4-fc03-998f9c21084c/mzaf_15774403374496568529.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "相信她, 關心她",
+        "ms": 272627,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/45/3c/5c453c98-16c3-f881-4a52-8f347b84a32e/mzaf_981332479689248561.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "戀愛的人都一樣",
+        "ms": 271693,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/39/c7/df39c7d3-c84b-abb9-1c35-7c8dd54b78a9/mzaf_15798560958248252758.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "擁抱陽光",
+        "ms": 210293,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/55/ee/c455eed0-0d39-0935-1bdb-a22e186f1426/mzaf_3358259463012153194.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "秋意濃",
+        "ms": 395133,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/45/8c/8a458c79-0df2-da04-fec0-bae2207c8b8f/mzaf_14596773301144687871.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Jacky%20Cheung%20%E5%90%BB%E5%88%A5",
+    "appleUrl": "https://music.apple.com/hk/album/%E5%90%BB%E5%88%A5/1443431909?uo=4"
+  },
+  {
+    "id": "it-1443792605",
+    "appleId": 1443792605,
+    "artistKey": "jacky",
+    "artist": "Jacky Cheung",
+    "artistZh": "張學友",
+    "title": "餓狼傳說",
+    "year": 1994,
+    "genre": "廣東歌/香港流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/0f/06/680f06ff-80b6-759f-86f5-1084d9674694/00731452322425.rgb.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "春風秋雨",
+        "ms": 276787,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/07/91/f907911c-c300-c910-11b9-6a3265ae580b/mzaf_8031634910142187764.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "餓狼傳說",
+        "ms": 270987,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/0f/8e/b60f8e1d-7367-2e40-9b39-6c3467242ea1/mzaf_872898397830028510.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "這一次意外",
+        "ms": 284333,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/1a/ff/4b1aff78-2ba7-02d4-cea0-1fa68ad13d77/mzaf_8892389535016422407.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "來來回回",
+        "ms": 231693,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/a7/e8/5ba7e8d3-8ef5-47a9-d963-5706f76c75f0/mzaf_2231439264157434871.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "祇有你不知道",
+        "ms": 254920,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/b9/ae/4fb9ae32-717d-3a3b-8b23-5017b94a8f3c/mzaf_9353029421204987553.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "非常夏日",
+        "ms": 261253,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/6a/bd/316abdd7-ed3f-b839-d88b-7545d0d6da8c/mzaf_10525796921254111161.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "當愛變成習慣",
+        "ms": 299773,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/b0/40/48b040ac-74ed-3ae1-425f-833eb5eebdad/mzaf_7459721999326503548.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "追鐘",
+        "ms": 226387,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/ab/90/a3ab9005-0478-ca07-56ce-607df3bb4510/mzaf_17800204007542172611.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "天與地",
+        "ms": 282627,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/be/78/02be78bb-685d-126b-723e-631f683bfbc2/mzaf_4728237798051240937.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "夢裡再愛一次",
+        "ms": 205533,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/fc/15/d8fc1569-b2b2-6a18-9de1-db8a38037ed7/mzaf_3023784320248516691.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Jacky%20Cheung%20%E9%A4%93%E7%8B%BC%E5%82%B3%E8%AA%AA",
+    "appleUrl": "https://music.apple.com/hk/album/%E9%A4%93%E7%8B%BC%E5%82%B3%E8%AA%AA/1443792605?uo=4"
+  },
+  {
+    "id": "it-1444065611",
+    "appleId": 1444065611,
+    "artistKey": "jacky",
+    "artist": "Jacky Cheung",
+    "artistZh": "張學友",
+    "title": "忘記你我做不到",
+    "year": 1996,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/95/9e/2d959ebd-1d4b-c0f4-bd27-bbbd86a590ea/06UMGIM30503.rgb.jpg/600x600bb.jpg",
+    "trackCount": 11,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "忘記你我做不到",
+        "ms": 295000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/f0/a3/44f0a3d4-307d-aa8b-03a4-f0fc02f92f97/mzaf_10793568776747805508.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "情書",
+        "ms": 244507,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/b8/6e/b0b86e55-dbb7-dc80-c394-4b184c5f869b/mzaf_15818432260458225864.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "慢慢",
+        "ms": 283733,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/98/f2/2a98f28b-9b61-0f0d-65fb-a7956547fa3d/mzaf_7183628295241408450.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "微塵",
+        "ms": 264427,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/08/0d/5d080dba-2c4c-d239-0814-ffdfdb6c7ad3/mzaf_10672052985288029903.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "我不願意",
+        "ms": 246493,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/01/b9/3901b988-8672-c519-8ee1-5d38bc4d3db7/mzaf_12762906431594895757.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "左右為難",
+        "ms": 252133,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/d9/bb/5fd9bbb9-24a0-aae9-8a0a-2047e8b46dde/mzaf_15333835041852311281.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "真心的朋友",
+        "ms": 285827,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/66/be/7b66bec1-aa22-e59b-fea9-0f2aab18ec70/mzaf_16164210490354542805.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "失眠夜",
+        "ms": 225800,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/9a/f0/a39af032-496c-e266-6ccf-ece3b9834096/mzaf_5880112463304707133.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "無所謂",
+        "ms": 260400,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/d1/68/ebd168ce-23bc-30f1-9da7-5211097152df/mzaf_12909871602292428702.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "我回來了",
+        "ms": 248293,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/4e/f8/a94ef8ee-6b84-21b6-f08b-0ed8549a378e/mzaf_13851671009926717520.plus.aac.p.m4a"
+      },
+      {
+        "n": 11,
+        "disc": 1,
+        "title": "枕邊月亮",
+        "ms": 298827,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/1c/57/b91c570c-336b-9bd8-d1c2-0f9d29793045/mzaf_12115997009542225289.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Jacky%20Cheung%20%E5%BF%98%E8%A8%98%E4%BD%A0%E6%88%91%E5%81%9A%E4%B8%8D%E5%88%B0",
+    "appleUrl": "https://music.apple.com/hk/album/%E5%BF%98%E8%A8%98%E4%BD%A0%E6%88%91%E5%81%9A%E4%B8%8D%E5%88%B0/1444065611?uo=4"
+  },
+  {
+    "id": "it-1443897807",
+    "appleId": 1443897807,
+    "artistKey": "jacky",
+    "artist": "Jacky Cheung",
+    "artistZh": "張學友",
+    "title": "想和你去吹吹風",
+    "year": 1997,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/07/e9/cc07e958-9c79-b65f-1158-c9cc66575293/06UMGIM57936.rgb.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "想和你去吹吹風",
+        "ms": 289000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/09/d1/2509d140-29e1-eb71-8faa-d7821ca6cf89/mzaf_12998815432060923667.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "三天兩夜",
+        "ms": 279840,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/a7/0c/04a70c28-7a99-9f9b-bf8c-e5eb683e15ee/mzaf_3243371391693839382.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "自由",
+        "ms": 226000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/9a/ff/889aff25-b55f-5e90-3d42-339f4b9c4bb8/mzaf_6098855384517606259.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "台北不是傷心地",
+        "ms": 279000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/a0/e2/5ba0e2bf-846c-c742-1b3d-01a32fdf1ef3/mzaf_13889657801167436955.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "火花",
+        "ms": 298667,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/5e/e4/a75ee4af-825e-e321-1527-52d6d3099c27/mzaf_2336669606813599777.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "隱形眼鏡",
+        "ms": 295440,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/d8/8a/66d88ac9-0b21-6170-bed6-b11c8d0ced49/mzaf_12341890592838527911.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "紐約的司機駕著北京的夢",
+        "ms": 280000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/aa/cd/29aacd1d-a906-7cf6-bb3b-dcf02f59ac6f/mzaf_9486970421961010938.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "演",
+        "ms": 217507,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/dc/66/d7dc66be-2eaa-5526-682d-709ca29f303e/mzaf_9039409498159675395.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "毛衣",
+        "ms": 261507,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/3b/1a/d93b1ab0-36cf-e72e-52b6-c201581db590/mzaf_71456413041088163.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "甚麼世界",
+        "ms": 273667,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/1f/5b/ac1f5b61-3005-bf86-c2e1-4de8a797d62b/mzaf_14567882401783765427.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Jacky%20Cheung%20%E6%83%B3%E5%92%8C%E4%BD%A0%E5%8E%BB%E5%90%B9%E5%90%B9%E9%A2%A8",
+    "appleUrl": "https://music.apple.com/hk/album/%E6%83%B3%E5%92%8C%E4%BD%A0%E5%8E%BB%E5%90%B9%E5%90%B9%E9%A2%A8/1443897807?uo=4"
+  },
+  {
+    "id": "it-1443307419",
+    "appleId": 1443307419,
+    "artistKey": "jacky",
+    "artist": "Jacky Cheung",
+    "artistZh": "張學友",
+    "title": "Wake Up Dreaming",
+    "year": 2014,
+    "genre": "國語流行樂",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/47/11/8a/47118aa7-4318-34bf-ecc5-d09816eaabbb/00602488978002.rgb.jpg/600x600bb.jpg",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "n": 1,
+        "disc": 1,
+        "title": "用餘生去愛",
+        "ms": 254239,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/ec/70/d2ec7012-82a7-7fc5-cf0f-311b43d3820d/mzaf_9837484355433617763.plus.aac.p.m4a"
+      },
+      {
+        "n": 2,
+        "disc": 1,
+        "title": "時間有淚",
+        "ms": 217892,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/88/87/8988875f-a07d-5007-2e45-49c89135696a/mzaf_13491290423120424537.plus.aac.p.m4a"
+      },
+      {
+        "n": 3,
+        "disc": 1,
+        "title": "你說的",
+        "ms": 278432,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/ad/7d/dfad7da2-2e7b-7996-434f-b8bbd20fc08e/mzaf_969118623042815671.plus.aac.p.m4a"
+      },
+      {
+        "n": 4,
+        "disc": 1,
+        "title": "我愛上你",
+        "ms": 200670,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/0a/9e/e80a9e3d-4571-ed17-8736-731dcd9bcdb9/mzaf_18257222195363179461.plus.aac.p.m4a"
+      },
+      {
+        "n": 5,
+        "disc": 1,
+        "title": "我只想唱歌",
+        "ms": 196584,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/6a/0d/a26a0d72-5dcc-aaf0-92a9-1745555a52f5/mzaf_7573604671241249492.plus.aac.p.m4a"
+      },
+      {
+        "n": 6,
+        "disc": 1,
+        "title": "控訴",
+        "ms": 277932,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/ea/12/0fea125b-dab9-04d6-6185-2c90da4d694e/mzaf_5425556431305901319.plus.aac.p.m4a"
+      },
+      {
+        "n": 7,
+        "disc": 1,
+        "title": "我醒著做夢",
+        "ms": 243000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/94/5b/13945b9b-7d89-2825-bf96-cfe2f1133e8c/mzaf_1443155761054336046.plus.aac.p.m4a"
+      },
+      {
+        "n": 8,
+        "disc": 1,
+        "title": "來得及",
+        "ms": 223179,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/db/e4/c8dbe4fe-e2a8-b1b8-58b3-9c6eaece06f2/mzaf_2414921168226243418.plus.aac.p.m4a"
+      },
+      {
+        "n": 9,
+        "disc": 1,
+        "title": "白自在",
+        "ms": 218260,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/a7/6e/d8a76e08-a345-778d-74b1-61fa4c41ae39/mzaf_13756768567781639228.plus.aac.p.m4a"
+      },
+      {
+        "n": 10,
+        "disc": 1,
+        "title": "不錯",
+        "ms": 241883,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/fd/4d/2ffd4d6f-1625-163a-dc88-20486862e1fd/mzaf_5029710601857260151.plus.aac.p.m4a"
+      }
+    ],
+    "spotifySearch": "https://open.spotify.com/search/Jacky%20Cheung%20Wake%20Up%20Dreaming",
+    "appleUrl": "https://music.apple.com/hk/album/wake-up-dreaming/1443307419?uo=4"
+  }
+]
