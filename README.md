@@ -169,6 +169,12 @@ the interface does not pretend otherwise.
 
 ---
 
+## Design reference
+
+The layout, curved-archive composition and motion direction are adapted from the VHS-archive
+motion template at [motionsites.ai/?prompt=vhs-archive](https://motionsites.ai/?prompt=vhs-archive),
+reworked here for CD jewel cases, Traditional Chinese typography and a paper archive.
+
 ## License
 
 The code is yours to use. Album artwork, titles and audio previews belong to their respective
