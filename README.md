@@ -62,8 +62,6 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:5173**.
-
 To make a production build:
 
 ```bash
