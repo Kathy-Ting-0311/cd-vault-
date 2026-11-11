@@ -70,7 +70,7 @@ To make a production build:
 
 ```bash
 npm run build     # → dist/
-npm run preview   # serve dist/ at http://localhost:4173
+npm run preview   # serve dist/ at (e.g.,http://localhost:1080:)
 ```
 
 > The album artwork is loaded from Apple's image CDN, so the first visit needs an internet
